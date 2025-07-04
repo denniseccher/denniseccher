@@ -1,4 +1,4 @@
-# Dennis Eccher
+# [dennis eccher]
 
 > *Building software to help people.*
 
