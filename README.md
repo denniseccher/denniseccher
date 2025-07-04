@@ -4,9 +4,8 @@
 
 🌍 Based in Italy  
 💻 Flutter Developer & Full-Stack Explorer  
-📬 dennis.eccher@gmail.com  
-🔗 [denniseccher.com](https://denniseccher.com) *(if available)*  
-📎 [LinkedIn](https://www.linkedin.com/in/denniseccher)
+📬 denniseccher@gmail.com  
+📎 [LinkedIn](https://www.linkedin.com/in/dennis-eccher-96602a2a7/)
 
 ---
 
@@ -30,11 +29,11 @@ Minimal doesn’t mean empty. It means *essential*.
 
 ### ✦ Skills Snapshot
 
-- **Languages & Frameworks**: Dart / Flutter, TypeScript, HTML, CSS  
+- **Languages & Frameworks**: Dart / Flutter, TypeScript, HTML, CSS, Angular
 - **Backend**: Supabase, Firebase, Node.js  
 - **Databases**: PostgreSQL, MySQL, Pgroonga  
 - **Tools**: Git, Figma, Docker, VS Code  
-- **Focus Areas**: UI/UX, Realtime apps, Multilingual search, Clean architecture
+- **Focus Areas**: Mobile apps, UI/UX, Realtime apps, Multilingual search, Clean architecture
 
 ---
 
@@ -43,7 +42,7 @@ Minimal doesn’t mean empty. It means *essential*.
 I’m open to collaboration, meaningful products, and future-facing ideas.  
 Feel free to reach out — whether it’s about a role, a concept, or just to say hi.
 
-> 📮 **dennis.eccher@gmail.com**
+> 📮 **denniseccher@gmail.com**
 
 ---
 
