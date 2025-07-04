@@ -1,44 +1,50 @@
 # Dennis Eccher
 
-> *"Designing ideas. Building them with code."*
+> *Building software with intent. Crafting interfaces with soul.*
 
 🌍 Based in Italy  
-💻 Flutter Developer | Full-Stack Explorer  
+💻 Flutter Developer & Full-Stack Explorer  
 📬 dennis.eccher@gmail.com  
-🔗 [denniseccher.com](https://denniseccher.com) *(if available)*
+🔗 [denniseccher.com](https://denniseccher.com) *(if available)*  
+📎 [LinkedIn](https://www.linkedin.com/in/denniseccher)
 
 ---
 
-### ⚡ Tech Stack  
-- **Frontend**: Flutter, HTML/CSS, JS  
+### ✦ About Me
+
+I design and build meaningful digital experiences — with a strong focus on **clarity**, **fluidity**, and **impact**.
+
+Currently shaping [**Alvea**](https://github.com/denniseccher) — a social event app crafted to connect people across languages and cultures.  
+Also exploring human-centered tools, ambient AI, and component design in Flutter.
+
+---
+
+### ✦ Philosophy
+
+I believe in code that breathes —  
+clear structure, scalable logic, and UI that feels effortless.
+
+Minimal doesn’t mean empty. It means *essential*.
+
+---
+
+### ✦ Skills Snapshot
+
+- **Languages & Frameworks**: Dart / Flutter, TypeScript, HTML, CSS  
 - **Backend**: Supabase, Firebase, Node.js  
-- **Database**: PostgreSQL, MySQL, Pgroonga  
-- **Tools**: Git, VSCode, Figma, Docker  
+- **Databases**: PostgreSQL, MySQL, Pgroonga  
+- **Tools**: Git, Figma, Docker, VS Code  
+- **Focus Areas**: UI/UX, Realtime apps, Multilingual search, Clean architecture
 
 ---
 
-### 📊 GitHub Stats
+### ✦ Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denniseccher&show_icons=true&hide_title=true&hide_rank=true&hide=prs&count_private=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniseccher&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I’m open to collaboration, meaningful products, and future-facing ideas.  
+Feel free to reach out — whether it’s about a role, a concept, or just to say hi.
 
----
-
-### 🌱 Currently
-
-- Building **Alvea** → a social events app designed around multilingual inclusivity and real-life connection.  
-- Exploring chat systems, AI integrations and productivity tools.  
-- Writing clean, scalable code — with care.
+> 📮 **dennis.eccher@gmail.com**
 
 ---
 
-### ☁️ Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/denniseccher) | [GitHub](https://github.com/denniseccher) | [Email](mailto:dennis.eccher@gmail.com)
-
----
-
-> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+> *"Simplicity is not the absence of complexity, but the art of clarity."*
