@@ -56,6 +56,12 @@ Feel free to reach out — whether it’s about a role, a concept, or just to sa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniseccher&layout=compact&theme=transparent&hide_title=true" width="48%" />
 </p>
 
+
+<div>
+  <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Giulio-Cappelli&show_icons=true&theme=dark&count_private=true&bg_color=0d1117"/>
+  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giulio-Cappelli&layout=compact&langs_count-16&theme=dark&bg_color=0d1117"/>
+</div>
+
 ---
 
 > *"You can't beat someone who doesn't quit."*
