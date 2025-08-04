@@ -3,7 +3,7 @@
 > *Building software to help people.*
 
 🌍 Based in Italy  
-💻 Flutter Developer & Full-Stack Explorer  
+💻 Full-Stack Developer
 📬 denniseccher@gmail.com  
 📎 [LinkedIn](https://www.linkedin.com/in/dennis-eccher-96602a2a7/)
 
@@ -11,41 +11,30 @@
 
 ### ✦ About Me
 
-I design and build meaningful digital experiences — with a strong focus on **usability**, **reusability**, **minimalism**, and **impact**.
+I design and develop products to help people, with a strong focus on **usability**, **reusability**, **minimalism**, and **social impact**.
 
-Currently shaping [**Alvea**](https://github.com/denniseccher) — a social event app crafted to connect people across languages and cultures.  
-Also building [**Eivy**](https://github.com/denniseccher/eivy) — a reusable Flutter chat component with clarity, aura, and soul.  
-Exploring human-centered tools, ambient AI, and component design in Flutter.
+Currently building [**Alvea**] — a mobile app to connect people with similar interests in real life.
+Also working on my personal portfolio
 
 ---
 
 ### ✦ Philosophy
 
-I believe in code that breathes —  
-clear structure, scalable logic, and UI that feels effortless.
+I believe in clean and useful code.
 
 Minimal doesn’t mean empty. It means *essential*.
 
-> *Expressive-minimalism*
+[*Expressive-minimalism*]
 
 ---
 
 ### ✦ Skills Snapshot
 
-- **Languages & Frameworks**: Dart / Flutter, TypeScript, HTML, CSS, Angular  
-- **Backend**: Supabase, Firebase, Node.js  
-- **Databases**: PostgreSQL, MySQL, Pgroonga  
-- **Tools**: Git, Figma, Docker, VS Code  
-- **Focus Areas**: Mobile apps, UI/UX, Realtime apps, Multilingual search, Clean architecture
-
----
-
-### ✦ Let’s Connect
-
-I’m open to collaboration, meaningful products, and future-facing ideas.  
-Feel free to reach out — whether it’s about a role, a concept, or just to say hi.
-
-> 📮 **denniseccher@gmail.com**
+- **Languages & Frameworks**: Dart / Flutter, TypeScript, HTML, CSS, Angular
+- **Backend**: Supabase, Firebase, Node.js
+- **Databases**: PostgreSQL, MySQL
+- **Tools**: Git, Figma, Docker, VS Code
+- **Focus Areas**: Mobile apps, UI/UX, Realtime apps, Multilingual apps, Clean architecture, Accessibility
 
 ---
 
@@ -55,13 +44,6 @@ Feel free to reach out — whether it’s about a role, a concept, or just to sa
   <img src="https://github-readme-stats.vercel.app/api?username=denniseccher&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&hide=issues&theme=transparent" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniseccher&layout=compact&theme=transparent&hide_title=true" width="48%" />
 </p>
-
-
-<div>
-  <img height="180rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=denniseccher&show_icons=true&theme=dark&count_private=true&bg_color=0d1117"/>
-  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniseccher&layout=compact&langs_count-16&theme=dark&bg_color=0d1117"/>
-</div>
-
 ---
 
 > *"You can't beat someone who doesn't quit."*
