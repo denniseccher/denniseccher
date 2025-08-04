@@ -14,6 +14,7 @@
 I design and develop products to help people, with a strong focus on **usability**, **reusability**, **minimalism**, and **social impact**.
 
 Currently building [**Alvea**] — a mobile app to connect people with similar interests in real life.
+
 Also working on my personal portfolio
 
 ---
