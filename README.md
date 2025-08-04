@@ -45,6 +45,7 @@ Minimal doesn’t mean empty. It means *essential*.
   <img src="https://github-readme-stats.vercel.app/api?username=denniseccher&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&hide=issues&theme=transparent" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denniseccher&layout=compact&theme=transparent&hide_title=true" width="48%" />
 </p>
+
 ---
 
 > *"You can't beat someone who doesn't quit."*
