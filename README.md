@@ -4,7 +4,7 @@
 
 👨🏼‍💻 [@eive.](https://github.com/eivehub)  
 🌍 Based in Italy  
-💻 Full-Stack Developer
+💻 Full-Stack Developer  
 📬 denniseccher@gmail.com  
 📎 [LinkedIn](https://www.linkedin.com/in/dennis-eccher-96602a2a7/)
 
