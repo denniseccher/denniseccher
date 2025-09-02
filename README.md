@@ -6,7 +6,7 @@
 🌍 Based in Italy  
 💻 Full-Stack Developer  
 📬 denniseccher@gmail.com  
-📎 [LinkedIn](https://www.linkedin.com/in/dennis-eccher-96602a2a7/)
+📎 [LinkedIn](https://www.linkedin.com/in/denniseccher)
 
 ---
 
